@@ -1,0 +1,12 @@
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\bin\Debug\Nuton_KorniUravn.exe.config
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\bin\Debug\Nuton_KorniUravn.exe
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\bin\Debug\Nuton_KorniUravn.pdb
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\obj\Debug\Nuton_KorniUravn.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\obj\Debug\Nuton_KorniUravn.Form1.resources
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\obj\Debug\Nuton_KorniUravn.Properties.Resources.resources
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\obj\Debug\Nuton_KorniUravn.csproj.GenerateResource.Cache
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\obj\Debug\Nuton_KorniUravn.exe
+C:\Users\aleks\Desktop\Nuton_KorniUravn\Nuton_KorniUravn\obj\Debug\Nuton_KorniUravn.pdb
+C:\Users\Igor\Desktop\ГАК\Программирование\Численные методы\ЧисленныеАлексей\Nuton_KorniUravn\Nuton_KorniUravn\bin\Debug\Nuton_KorniUravn.exe.config
+C:\Users\Igor\Desktop\ГАК\Программирование\Численные методы\ЧисленныеАлексей\Nuton_KorniUravn\Nuton_KorniUravn\obj\Debug\Nuton_KorniUravn.exe
+C:\Users\Igor\Desktop\ГАК\Программирование\Численные методы\ЧисленныеАлексей\Nuton_KorniUravn\Nuton_KorniUravn\obj\Debug\Nuton_KorniUravn.pdb

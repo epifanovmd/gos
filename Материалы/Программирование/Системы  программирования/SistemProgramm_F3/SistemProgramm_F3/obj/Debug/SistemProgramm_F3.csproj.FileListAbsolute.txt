@@ -1,0 +1,12 @@
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\bin\Debug\SistemProgramm_F3.exe.config
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\bin\Debug\SistemProgramm_F3.exe
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\bin\Debug\SistemProgramm_F3.pdb
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\obj\Debug\SistemProgramm_F3.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\obj\Debug\SistemProgramm_F3.Form1.resources
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\obj\Debug\SistemProgramm_F3.Properties.Resources.resources
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\obj\Debug\SistemProgramm_F3.csproj.GenerateResource.Cache
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\obj\Debug\SistemProgramm_F3.exe
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F3\SistemProgramm_F3\obj\Debug\SistemProgramm_F3.pdb
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F3\SistemProgramm_F3\bin\Debug\SistemProgramm_F3.exe.config
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F3\SistemProgramm_F3\obj\Debug\SistemProgramm_F3.exe
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F3\SistemProgramm_F3\obj\Debug\SistemProgramm_F3.pdb

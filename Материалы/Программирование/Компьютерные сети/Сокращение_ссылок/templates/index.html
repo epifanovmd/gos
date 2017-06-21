@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+     <style>
+        .bord
+        {
+            border-style: solid;
+            border: 2px cornflowerblue;
+        }
+         span {
+             background: lightblue;
+         }
+    </style>
+</head>
+<body>
+    <form action="/" method="post">
+        <p align="center">
+            <span style="color: red;">{{ err1 }}</span>
+            <p align="center"><input name="Url" type="text" placeholder="Введите Url" style="width: 400px"></p>
+            {% if err %}
+                <p align="center"><span style="color: red">{{ err }}</span>
+                    <br>
+                    <a href="https://msdn.microsoft.com/ru-ru/library/5kzh1b5w.aspx">Документация по типу int</a> </p>
+            {% endif %}
+			<p align="center"><input name="Key" type="text" placeholder="Введите ключ типа int"></p>
+
+            <p align="center"><input type="submit" value="Сгенерировать ссылку"></p>
+            <p align="center">
+            <span class="bord" align="center">
+                Новая ссылка - {{ val }}
+            </span>
+            </p>
+            <br>
+        </p>
+    </form>
+    <form action="/clear_base" method="post">
+        <p align="center">
+            <input type="submit" value="Очистить базу">
+        </p>
+    </form>
+    <form action="/preview_base" method="post">
+        <p align="center">
+            <input type="submit" value="Показать базу">
+        </p>
+        <p>
+        {% if Identy %}
+            <table border="1" cellpadding="5" align="center">
+                 <tr>
+                    <th>Id</th>
+                    <th>Ссылки</th>
+                    <th>Ключи</th>
+                    <th>Сгенерированные ссылки</th>
+                 </tr>
+                {% for r in rows %}
+                 <tr>
+                    <th>{{ r.id }}</th>
+                    <th>{{ r.url }}</th>
+                    <th>{{ r.identify }}</th>
+                    <th>{{ r.created_url }}</th>
+                 </tr>
+                {% endfor %}
+            </table>
+        {% endif %}
+        </p>
+    </form>
+</body>
+</html>

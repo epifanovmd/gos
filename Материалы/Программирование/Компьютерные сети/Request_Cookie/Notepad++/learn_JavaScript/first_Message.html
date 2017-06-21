@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+</head>
+
+<!-- async(IE9 not support) or defer -->
+<script async src="script_message.js"></script> 
+
+<body>
+
+  <script>
+    alert( 'Я - JavaScript!' );
+  </script>
+
+  <input type="submit" onclick="dev()"/>
+  
+  <p>
+	<input type="submit" value="OK" onclick="sistemi_schisl()"/>
+  </p>
+
+	<p>
+		<input type='text' id='Data' placeholder="Введите данные..."/>
+		<input type='text' id='Key' placeholder="Введите ключ для зашифровки..."/>
+  </p>
+  <p><input type="submit" value="Зашифровать" onclick="shiphr_data()"/>
+	<input type="label" id="Rez1" readonly="True"/>
+  </p>
+  
+    <p><input type="submit" value="Расшифровать" onclick="unshiphr_data()"/>
+	<input type="label" id="Rez2" readonly="True"/>
+  </p>
+  
+  
+</body>
+
+</html>

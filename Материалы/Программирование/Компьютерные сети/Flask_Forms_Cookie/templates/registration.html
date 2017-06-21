@@ -1,0 +1,18 @@
+<html !DOCTYPE>
+<head>
+<title>Site</title>
+<charset meta="utf-8"/>
+</head>
+	<body>
+    {% from "_formhelpers.html" import render_field %}
+	<form action='/registration' method='post'>
+		<div>
+            {{ render_field(form.Username) }}
+            {{ render_field(form.Password) }}
+            {{ render_field(form.Confirm) }}
+            {{ render_field(form.submit_ok) }}
+		<div>{{ error }}</div>
+		</div>
+	</form>
+	</body>
+</html>

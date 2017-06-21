@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Картинка</title>
+	<script src="/static/scripts/jquery.js"></script>
+
+    <script>
+        $(window).load(function(){
+            load_images(); 
+            });
+
+    </script>
+	
+	<style>
+img[tabindex="0"] {  /* стиль увеличения и уменьшения картинки */
+  cursor: zoom-in;
+}
+img[tabindex="0"]:focus {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: auto;
+  height: auto;
+  max-width: 99%;
+  max-height: 99%;
+  margin: auto;
+  box-shadow: 0 0 20px #000, 0 0 0 1000px rgba(210,210,210,.4);
+}
+img[tabindex="0"]:focus,  /* убрать строку, если не нужно, чтобы при клике на увеличенное фото возвращалось в исходное состояние */
+img[tabindex="0"]:focus ~ * {
+  pointer-events: none;
+  cursor: zoom-out;
+}
+	.layerMessages {
+	   overflow: auto;
+	   height: inherit;
+	   padding: 10px;
+        border: solid 2px chartreuse;
+   }
+
+    .tooltip {
+	border-bottom: 1px dotted #0077AA;
+	cursor: help;
+}
+
+.tooltip::after {
+	background: rgba(0, 0, 0, 0.8);
+	border-radius: 8px 8px 8px 0px;
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+	color: #FFF;
+	content: attr(data-tooltip); /* Главная часть кода, определяющая содержимое всплывающей подсказки */
+	margin-top: -24px;
+	opacity: 0; /* Наш элемент прозрачен... */
+	padding: 3px 7px;
+	position: absolute;
+	visibility: hidden; /* ...и скрыт. */
+
+	transition: all 0.4s ease-in-out; /* Добавить плавности по вкусу */
+}
+
+.tooltip:hover::after {
+	opacity: 1; /* Показываем его */
+	visibility: visible;
+}
+
+
+
+	</style>
+</head>
+<body>
+
+   <div style="width: 650px; height: 500px; margin: auto" class="layerMessages"> <!--"margin: auto" Выравнивание элемента по центру  -->
+        <table id="BlockImages">
+
+        </table>
+
+    </div>
+   <div align="center">
+               <form action="/api/images/add" method="post" enctype="multipart/form-data" id="Form">
+            <input type="file" name="img" id="FileImage">
+            <input type="button" value="Опубликовать" id="Publish">
+        </form>
+        <form action="delete_all_imgs" method="post" style="margin: auto">
+            <input type="button" value="Удалить все картинки" onclick="delete_all_imgs()">
+        </form>
+   </div>
+
+
+<script>
+var cols_td = 0; 
+var tag_e;
+var images = []; 
+var msgs; 
+var kol_imgs_in_row = 4; 
+var this_image_name; 
+
+$('#FileImage').change(function(){
+    var file = this.files[0];
+    this_image_name = file.name;
+    var size = file.size;
+    var type = file.type;
+    //Your validation
+});
+
+$('#Publish').click(function(){
+    //console.log("Click");
+    //console.log(msgs.length)
+
+    if (msgs.length > 0) {
+
+        for (var i = 0; i < msgs.length; i++) {
+
+                if (msgs[i][0] == this_image_name) {
+                    alert("Картинка с названием " + this_image_name + " уже есть");
+                    return;
+                }
+            }
+
+
+
+            add_images(); 
+            tag_e.innerHTML += "<td >"
+                        + "<table>"
+                            + "<tr>"
+                                + "<td align='center'>"
+                                    + "<progress id='ProgressBar'></progress>"
+                                    + "</td>"
+                                + "</tr>"
+                             + "</table>"
+                        + "</td>";
+    }
+    else
+    {
+        tag_e = document.createElement("tr"); 
+        var msgs_e = document.getElementById("BlockImages");
+        msgs_e.appendChild(tag_e);
+        tag_e.innerHTML = "<td>"
+                        + "<table>"
+                            + "<tr>"
+                                + "<td align='center'>"
+                                    + "<progress id='ProgressBar'></progress>"
+                                    + "</td>"
+                                + "</tr>"
+                             + "</table>"
+                        + "</td>";
+    }
+
+    var formData = new FormData($('#Form')[0]);
+
+
+    $.ajax({
+        url: '/api/images/add',  //Server script to process data
+        type: 'POST',
+        xhr: function() {  // Custom XMLHttpRequest
+            var myXhr = $.ajaxSettings.xhr();
+            if(myXhr.upload){ // Check if upload property exists
+                myXhr.upload.addEventListener('#ProgressBar',progressHandlingFunction, false); // For handling the progress of the upload
+            }
+            return myXhr;
+        },
+        //Ajax events
+//        beforeSend: beforeSendHandler,
+//        success: completeHandler,
+//        error: errorHandler,
+        // Form data
+        data: formData,
+        //Options to tell jQuery not to process data or worry about content-type.
+        cache: false,
+        contentType: false,
+        processData: false
+    });
+    load_images();
+});
+
+function progressHandlingFunction(e){
+    if(e.lengthComputable){
+        $('#ProgressBar').attr({value:e.loaded,max:e.total});
+    }
+}
+
+function load_images() {
+	var request = new XMLHttpRequest();
+	request.open("GET", "/api/images/list", true);
+	request.onreadystatechange = function () {
+          if (request.readyState == 4 && request.status == 200) {
+		msgs = JSON.parse(request.responseText)["imgs"];
+		add_images();
+
+	  }
+	}
+	request.send();
+}
+
+
+    function delete_img(event)
+    {
+        var request = new XMLHttpRequest();
+        request.open("POST", "/delete_image", true);
+        request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
+        request.onreadystatechange = function () {
+          if (request.readyState == 4 && request.status == 200) {
+            load_images();
+          }
+          }
+
+        var img_src = document.getElementById("iimg" + event.currentTarget.id[1]).src;
+        var src = img_src.substring(img_src.lastIndexOf('/')+1,img_src.length);
+
+        var data = {image: src,};
+        var json = JSON.stringify(data);
+
+        request.send(json);
+    }
+
+    function delete_all_imgs()
+    {
+        var request = new XMLHttpRequest();
+        request.open("POST", "/delete_all_imgs", true);
+        request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
+        request.onreadystatechange = function () {
+          if (request.readyState == 4 && request.status == 200) {
+            load_images();
+          }
+          }
+        var data = {"Null": 0,}
+        var json = JSON.stringify(data);
+
+        request.send(json);
+    }
+
+    function add_images()
+    {
+        var msgs_e = document.getElementById("BlockImages");
+		while (msgs_e.firstChild) {
+ 			msgs_e.removeChild(msgs_e.firstChild);
+            tag_e = null;
+            cols_td = 0;
+            size = 0;
+		}
+
+		for (var i = 0; i < msgs.length; i++) {
+            images[i] = msgs[i][0];
+            if (cols_td % kol_imgs_in_row == 0) {
+                tag_e = document.createElement("tr");
+            }
+			msgs_e.appendChild(tag_e);
+            tag_e.innerHTML += "<td>"
+                                + "<table>"
+                                    + "<tr class='tooltip' data-tooltip='Увеличить фото один клик, второй клик уменьшить'>"
+                                        + "<td align='center'>"
+                                            + "<img id='iimg"+ i +"' src='static/public/imgs/" + msgs[i][0] +"' alt='Картинка'"
+                                            +"width='150' height='150' tabindex='0'/>"
+                                        + "</td>"
+                                    + "</tr>"
+                                    + "<tr>"
+                                        + "<td align='center'>"
+                                            + "<input type='text' readonly id='name" + i + "' value='" + msgs[i][0] + "'>"
+                                        + "</td>"
+                                    + "</tr>"
+                                    + "<tr>"
+                                        + "<td align='center'>"
+                                            + "<strong id='date" + i +"'>" + msgs[i][1] + "</strong>"
+                                        + "</td>"
+                                    + "</tr>"
+                                    + "<tr>"
+                                        + "<td align='center'>"
+                                            + "<form action='/delete_image' method='post'>"
+                                            + "<input id='b" + i + "' type='button' value='Удалить' onclick='delete_img(event)'>"
+                                            + "</form>"
+                                        + "</td>"
+                                    + "</tr>"
+                                + "</table>"
+                                + "</td>"
+
+
+            cols_td++;
+		}
+
+    }
+
+
+</script>
+
+
+
+</body>
+</html>

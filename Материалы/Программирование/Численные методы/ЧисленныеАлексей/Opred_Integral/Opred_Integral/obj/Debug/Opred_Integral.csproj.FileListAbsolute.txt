@@ -1,0 +1,12 @@
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\bin\Debug\Opred_Integral.exe.config
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\bin\Debug\Opred_Integral.exe
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\bin\Debug\Opred_Integral.pdb
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\obj\Debug\Opred_Integral.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\obj\Debug\Opred_Integral.Form1.resources
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\obj\Debug\Opred_Integral.Properties.Resources.resources
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\obj\Debug\Opred_Integral.csproj.GenerateResource.Cache
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\obj\Debug\Opred_Integral.exe
+C:\Users\aleks\Desktop\Opred_Integral\Opred_Integral\obj\Debug\Opred_Integral.pdb
+C:\Users\Igor\Desktop\ГАК\Программирование\Численные методы\ЧисленныеАлексей\Opred_Integral\Opred_Integral\bin\Debug\Opred_Integral.exe.config
+C:\Users\Igor\Desktop\ГАК\Программирование\Численные методы\ЧисленныеАлексей\Opred_Integral\Opred_Integral\obj\Debug\Opred_Integral.exe
+C:\Users\Igor\Desktop\ГАК\Программирование\Численные методы\ЧисленныеАлексей\Opred_Integral\Opred_Integral\obj\Debug\Opred_Integral.pdb

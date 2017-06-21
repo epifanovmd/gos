@@ -1,0 +1,15 @@
+#include <sys/mman.h>
+#include <fcntl.h>
+
+int main(void) {
+  int fd;
+  fd = open("/test_shmem", O_WRONLY | O_CREAT, 0644);
+
+  double pi = 3.14159265358979323;
+
+  write(fd, &pi, sizeof(pi));
+
+  close(fd);
+
+  return 0;
+}

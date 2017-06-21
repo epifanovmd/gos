@@ -1,0 +1,18 @@
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\bin\Debug\SistemProgramm_F1.exe.config
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\bin\Debug\SistemProgramm_F1.exe
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\bin\Debug\SistemProgramm_F1.pdb
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.Form1.resources
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.Properties.Resources.resources
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.csproj.GenerateResource.Cache
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.exe
+c:\users\ilya\documents\visual studio 2017\Projects\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.pdb
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\bin\Debug\SistemProgramm_F1.exe.config
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.exe
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.pdb
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\bin\Debug\SistemProgramm_F1.exe
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\bin\Debug\SistemProgramm_F1.pdb
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.Form1.resources
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.Properties.Resources.resources
+C:\Users\Igor\Desktop\ГАК\Программирование\Системы  программирования\SistemProgramm_F1\SistemProgramm_F1\obj\Debug\SistemProgramm_F1.csproj.GenerateResource.Cache

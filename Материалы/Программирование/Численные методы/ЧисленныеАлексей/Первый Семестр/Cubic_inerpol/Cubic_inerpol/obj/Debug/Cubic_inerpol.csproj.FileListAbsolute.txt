@@ -1,0 +1,9 @@
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\bin\Debug\Cubic_inerpol.exe.config
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\bin\Debug\Cubic_inerpol.exe
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\bin\Debug\Cubic_inerpol.pdb
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\obj\Debug\Cubic_inerpol.csprojResolveAssemblyReference.cache
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\obj\Debug\Cubic_inerpol.Form1.resources
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\obj\Debug\Cubic_inerpol.Properties.Resources.resources
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\obj\Debug\Cubic_inerpol.csproj.GenerateResource.Cache
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\obj\Debug\Cubic_inerpol.exe
+D:\студент\Численные методы\Cubic_inerpol\Cubic_inerpol\obj\Debug\Cubic_inerpol.pdb

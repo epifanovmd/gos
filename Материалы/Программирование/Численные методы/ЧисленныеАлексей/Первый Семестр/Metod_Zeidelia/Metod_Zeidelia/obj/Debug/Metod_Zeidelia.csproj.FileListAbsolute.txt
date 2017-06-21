@@ -1,0 +1,12 @@
+D:\студент\Марков\Aleksei\Metod_Zeidelia\Metod_Zeidelia\obj\Debug\Metod_Zeidelia.csprojResolveAssemblyReference.cache
+D:\студент\Марков\Aleksei\Metod_Zeidelia\Metod_Zeidelia\bin\Debug\Metod_Zeidelia.exe
+D:\студент\Марков\Aleksei\Metod_Zeidelia\Metod_Zeidelia\bin\Debug\Metod_Zeidelia.pdb
+D:\студент\Марков\Aleksei\Metod_Zeidelia\Metod_Zeidelia\obj\Debug\Metod_Zeidelia.exe
+D:\студент\Марков\Aleksei\Metod_Zeidelia\Metod_Zeidelia\obj\Debug\Metod_Zeidelia.pdb
+D:\студент\Численные методы\Metod_Zeidelia\Metod_Zeidelia\obj\Debug\Metod_Zeidelia.exe
+D:\студент\Численные методы\Metod_Zeidelia\Metod_Zeidelia\obj\Debug\Metod_Zeidelia.pdb
+D:\студент\Численные методы\Metod_Zeidelia\Metod_Zeidelia\bin\Debug\Metod_Zeidelia.exe
+D:\студент\Численные методы\Metod_Zeidelia\Metod_Zeidelia\bin\Debug\Metod_Zeidelia.pdb
+D:\студент\Численные методы\Metod_Zeidelia\Metod_Zeidelia\obj\Debug\Metod_Zeidelia.csprojResolveAssemblyReference.cache
+F:\Мои_документы\Численные методы\Metod_Zeidelia\Metod_Zeidelia\obj\Debug\Metod_Zeidelia.exe
+F:\Мои_документы\Численные методы\Metod_Zeidelia\Metod_Zeidelia\obj\Debug\Metod_Zeidelia.pdb

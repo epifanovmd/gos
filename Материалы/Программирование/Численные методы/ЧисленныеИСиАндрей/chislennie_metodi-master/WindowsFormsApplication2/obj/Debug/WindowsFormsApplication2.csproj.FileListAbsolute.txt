@@ -1,0 +1,123 @@
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Андрей\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Метод Гауса\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Метод Гауса C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Метод Гауса C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Метод Гауса C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Андрей\Desktop\Метод Гауса C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form11.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\Андрей\Desktop\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+E:\Числинные методы\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form11.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Програмирование\Проэкты VS\Числинные методы\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form11.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form11.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\ЧисленныеИСиАндрей\chislennie_metodi-master\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

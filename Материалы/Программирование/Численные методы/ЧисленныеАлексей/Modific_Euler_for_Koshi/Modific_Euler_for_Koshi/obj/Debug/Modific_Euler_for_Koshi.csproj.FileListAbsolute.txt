@@ -1,0 +1,9 @@
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\bin\Debug\Modific_Euler_for_Koshi.exe.config
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\bin\Debug\Modific_Euler_for_Koshi.exe
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\bin\Debug\Modific_Euler_for_Koshi.pdb
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\obj\Debug\Modific_Euler_for_Koshi.csprojResolveAssemblyReference.cache
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\obj\Debug\Modific_Euler_for_Koshi.Form1.resources
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\obj\Debug\Modific_Euler_for_Koshi.Properties.Resources.resources
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\obj\Debug\Modific_Euler_for_Koshi.csproj.GenerateResource.Cache
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\obj\Debug\Modific_Euler_for_Koshi.exe
+D:\210\Modific_Euler_for_Koshi\Modific_Euler_for_Koshi\obj\Debug\Modific_Euler_for_Koshi.pdb

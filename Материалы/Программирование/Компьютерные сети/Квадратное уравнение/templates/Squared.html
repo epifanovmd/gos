@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Решение квадратного уравнения</title>
+
+    <style>
+        .mrg {
+            margin: 25pt;
+        }
+    </style>
+</head>
+<body>
+    <form action="/Kvadrat_Uravn" method="post">
+        <div align="center"><strong>Квадратное уравнение</strong></div>
+        <div align="center">
+            <input type="text" name="a" id="0">
+            <label for="0"><strong>*x^2 + </strong></label>
+            <input type="text" name="b" id="1">
+            <label for="2"><strong>*x + </strong></label>
+            <input type="text" name="c" id="2">
+            <strong> = 0</strong>
+            <p><input type="submit" value="Решить"></p>
+        </div>
+    </form>
+
+        {% if error %}
+
+            <div align="center" style="color: red;">
+                <p><strong>Квадратное уравнение: {{ a }}*x^2 + {{ b }}*x + {{ c }} = 0</strong></p>
+                {{ error }}
+            </div>
+        {% elif result %}
+            <div align="center">
+                <p><strong>Квадратное уравнение: {{ a }}*x^2 + {{ b }}*x + {{ c }} = 0<p>Имеет корни:</p></strong></p>
+                <p><strong>x1 = {{ otvet1 }}</strong></p>
+                <p><strong>x2 = {{ otvet2 }}</strong></p>
+            </div>
+
+        {% endif %}
+
+</body>
+</html>

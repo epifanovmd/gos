@@ -1,0 +1,79 @@
+<html !DOCTYPE>
+<head>
+<title>Site</title>
+<charset meta="utf-8"/>
+</head>
+	<body>
+    <div>
+        {% from "_formhelpers.html" import render_field %}
+		<form action="/login" method="post">
+		{{ render_field(form.Username) }}
+		{{ render_field(form.Password) }}
+		{{ render_field(form.submit_ok) }}
+			<div>{{ err }}</div>
+		</form>
+        {% if Propusk %}
+        <div align="right">Вы авторизированы как {{ Name }}
+            {% from "_formhelpers.html" import render_field %}
+            <form action="/GO" method="post">
+                {{ render_field(form.submit_in) }}
+            </form>
+            {% from "_formhelpers.html" import render_field %}
+            <form action="/Exit" method="post">
+                {{ render_field(form.submit_exit) }}
+            </form>
+        </div>
+        {% endif %}
+    </div>
+		<a href="http://127.0.0.1:5000/registration">Зарегиться</a>
+        {% from "_formhelpers.html" import render_field %}
+		<form action="/clear_base" method="post">
+        	<p>
+            	{{ render_field(form.submit_clear_base) }}
+        	</p>
+    	</form>
+        {% from "_formhelpers.html" import render_field %}
+		<form action="/preview_bases" method="post">
+        <p>
+            {{ render_field(form.submit_preview_base) }}
+        </p>
+        <p>
+        {% if Identy %}
+			<br>
+				<p align="center">Таблица users</p>
+			<br>
+            <table border="1" cellpadding="5" align="center" width="25">
+                 <tr>
+                    <th>Логин</th>
+                    <th>Пароль</th>
+                    <th>Salt</th>
+                 </tr>
+                {% for r in rows %}
+                 <tr>
+                    <th> {{ r.username }}</th>
+                    <th><textarea style="resize: none" cols="50" rows="3">{{ r.password }}</textarea></th>
+                    <th><textarea style="resize: none" cols="50" rows="3">{{ r.salt }}</textarea></th>
+                 </tr>
+                {% endfor %}
+            </table>
+			<br>
+				<p align="center">Таблица sessions</p>
+			<br>
+			<table border="1" cellpadding="5" align="center" width="25">
+                 <tr>
+                    <th>Логин</th>
+                    <th>Sessions</th>
+                 </tr>
+                {% for r in rows1 %}
+                 <tr>
+                    <th> {{ r.username }}</th>
+                    <th><textarea style="resize: none" cols="50" rows="3">{{ r.session_key }}</textarea></th>
+                 </tr>
+                {% endfor %}
+            </table>
+        {% endif %}
+        </p>
+    </form>
+		</div>
+	</body>
+</html>

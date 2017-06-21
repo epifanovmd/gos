@@ -1,0 +1,14 @@
+server {
+       listen 80;
+       listen [::]:80;
+
+	location /static {
+              root /srv/app/static/;
+	}
+
+       location / { try_files $uri @flask; }
+       location @flask {
+       		include uwsgi_params;
+		uwsgi_pass unix:/tmp/flask.sock;
+	}
+}

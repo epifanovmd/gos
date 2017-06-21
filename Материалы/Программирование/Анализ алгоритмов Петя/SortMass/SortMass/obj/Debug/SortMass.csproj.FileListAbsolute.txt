@@ -1,0 +1,12 @@
+C:\Users\Igor\Desktop\Polindrom\SortMassYbivanie\SortMass\SortMass\bin\Debug\SortMass.exe.config
+C:\Users\Igor\Desktop\Polindrom\SortMassYbivanie\SortMass\SortMass\bin\Debug\SortMass.exe
+C:\Users\Igor\Desktop\Polindrom\SortMassYbivanie\SortMass\SortMass\bin\Debug\SortMass.pdb
+C:\Users\Igor\Desktop\Polindrom\SortMassYbivanie\SortMass\SortMass\obj\Debug\SortMass.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Polindrom\SortMassYbivanie\SortMass\SortMass\obj\Debug\SortMass.exe
+C:\Users\Igor\Desktop\Polindrom\SortMassYbivanie\SortMass\SortMass\obj\Debug\SortMass.pdb
+C:\Users\Igor\Desktop\SortMassYbivanie\SortMass\SortMass\bin\Debug\SortMass.exe.config
+C:\Users\Igor\Desktop\SortMassYbivanie\SortMass\SortMass\obj\Debug\SortMass.exe
+C:\Users\Igor\Desktop\SortMassYbivanie\SortMass\SortMass\obj\Debug\SortMass.pdb
+C:\Users\Igor\Desktop\SortMassYbivanie\SortMass\SortMass\bin\Debug\SortMass.exe
+C:\Users\Igor\Desktop\SortMassYbivanie\SortMass\SortMass\bin\Debug\SortMass.pdb
+C:\Users\Igor\Desktop\SortMassYbivanie\SortMass\SortMass\obj\Debug\SortMass.csprojResolveAssemblyReference.cache

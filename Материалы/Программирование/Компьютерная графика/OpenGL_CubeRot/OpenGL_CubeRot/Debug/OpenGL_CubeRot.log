@@ -1,0 +1,13 @@
+﻿Сборка начата 10.06.2017 14:49:09.
+     1>Проект "C:\Users\aleks\Desktop\OpenGL_CubeRot\OpenGL_CubeRot\OpenGL_CubeRot.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Visual_Studio_2013\VC\bin\CL.exe /c /IC:\Users\aleks\Desktop\OpenGL_CubeRot\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/ /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Visual_Studio_2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aleks\Desktop\OpenGL_CubeRot\Debug\OpenGL_CubeRot.exe" /INCREMENTAL /NOLOGO C:\Users\aleks\Desktop\OpenGL_CubeRot\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glew32.lib C:\Users\aleks\Desktop\OpenGL_CubeRot\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glfw3dll.lib C:\Users\aleks\Desktop\OpenGL_CubeRot\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\aleks\Desktop\OpenGL_CubeRot\Debug\OpenGL_CubeRot.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\aleks\Desktop\OpenGL_CubeRot\Debug\OpenGL_CubeRot.lib" /MACHINE:X86 Debug\main.obj
+         OpenGL_CubeRot.vcxproj -> C:\Users\aleks\Desktop\OpenGL_CubeRot\Debug\OpenGL_CubeRot.exe
+     1>Сборка проекта "C:\Users\aleks\Desktop\OpenGL_CubeRot\OpenGL_CubeRot\OpenGL_CubeRot.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.19

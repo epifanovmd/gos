@@ -1,0 +1,80 @@
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\студент\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\студент\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\студент\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\студент\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\студент\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\студент\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\студент\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\студент\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\студент\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\студент\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Vvod_Element.resources
+D:\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Vvod_Element.resources
+D:\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Vvod_Element.resources
+E:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Vvod_Element.resources
+G:\Users\Алексей\Desktop\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Vvod_Element.resources
+C:\Users\user\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\студент\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Vectors.resources
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Vectors.resources
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Vvod_Element.resources
+C:\Мои_документы\Численные методы\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\студент\Численные методы\Первый Семестр\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\студент\Численные методы\Первый Семестр\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\студент\Численные методы\Первый Семестр\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\ЧисленныеАлексей\Первый Семестр\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\ЧисленныеАлексей\Первый Семестр\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\ЧисленныеАлексей\Первый Семестр\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

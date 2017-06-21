@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="1" xOffset="0" scrollWidth="1168" startPos="2928" endPos="2928" selMode="0" lang="Python" encoding="65001" filename="D:\303\users\users.py" backupFilePath="" originalFileLastModifTimestamp="1460537542" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1136" startPos="423" endPos="423" selMode="0" lang="HTML" encoding="-1" filename="D:\303\users\templates\login.html" backupFilePath="" originalFileLastModifTimestamp="1460533841" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1136" startPos="140" endPos="140" selMode="0" lang="HTML" encoding="-1" filename="D:\303\users\templates\main.html" backupFilePath="" originalFileLastModifTimestamp="1460534949" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1136" startPos="163" endPos="163" selMode="0" lang="HTML" encoding="-1" filename="D:\303\users\templates\registration.html" backupFilePath="" originalFileLastModifTimestamp="1460533827" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1168" startPos="22" endPos="22" selMode="0" lang="Python" encoding="-1" filename="D:\303\users\123.py" backupFilePath="" originalFileLastModifTimestamp="1460536981" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

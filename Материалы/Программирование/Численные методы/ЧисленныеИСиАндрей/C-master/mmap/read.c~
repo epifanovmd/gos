@@ -1,0 +1,13 @@
+#include <sys/mman.h>
+#include <fcntl.h>
+#include <unistd.h>
+
+int main(void) {
+  int fd;
+  fd = open("/test_shmem", O_RDONLY, 0644);
+  double pi;
+  read(fd, &pi, sizeof(pi));
+  shm_unlink(fd);
+  close(fd);
+  return 0;
+}

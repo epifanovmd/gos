@@ -1,0 +1,68 @@
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe.config
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.pdb
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csprojResolveAssemblyReference.cache
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Form1.resources
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Properties.Resources.resources
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csproj.GenerateResource.Cache
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.exe
+D:\студент\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.pdb
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe.config
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.exe
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.pdb
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.pdb
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\mscorlib.dll
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\ru\mscorlib.resources.dll
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normidna.nlp
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normnfc.nlp
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normnfd.nlp
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normnfkc.nlp
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normnfkd.nlp
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csprojResolveAssemblyReference.cache
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Form1.resources
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Properties.Resources.resources
+F:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csproj.GenerateResource.Cache
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe.config
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.exe
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.pdb
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.pdb
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csprojResolveAssemblyReference.cache
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Form1.resources
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Properties.Resources.resources
+I:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csproj.GenerateResource.Cache
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe.config
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.exe
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.pdb
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.pdb
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\mscorlib.dll
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\ru\mscorlib.resources.dll
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normidna.nlp
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normnfc.nlp
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normnfd.nlp
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normnfkc.nlp
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\normnfkd.nlp
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csprojResolveAssemblyReference.cache
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Form1.resources
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Properties.Resources.resources
+E:\Мои_документы\Численные методы\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csproj.GenerateResource.Cache
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe.config
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.exe
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.pdb
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.pdb
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csprojResolveAssemblyReference.cache
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Form1.resources
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Properties.Resources.resources
+D:\студент\Численные методы\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csproj.GenerateResource.Cache
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe.config
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.exe
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.pdb
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.exe
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\bin\Debug\Metod_Eilera_Sistemi_Dif.pdb
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csprojResolveAssemblyReference.cache
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Form1.resources
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.Properties.Resources.resources
+F:\ЧисленныеАлексей\Первый Семестр\Metod_Eilera_Sistemi_Dif\Metod_Eilera_Sistemi_Dif\obj\Debug\Metod_Eilera_Sistemi_Dif.csproj.GenerateResource.Cache

@@ -1,0 +1,44 @@
+D:\студент\Марков\Aleksei\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.exe
+D:\студент\Марков\Aleksei\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.pdb
+D:\студент\Марков\Aleksei\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csprojResolveAssemblyReference.cache
+D:\студент\Марков\Aleksei\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form1.resources
+D:\студент\Марков\Aleksei\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Properties.Resources.resources
+D:\студент\Марков\Aleksei\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csproj.GenerateResource.Cache
+D:\студент\Марков\Aleksei\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.exe
+D:\студент\Марков\Aleksei\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.pdb
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.exe
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.pdb
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.exe
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.pdb
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csprojResolveAssemblyReference.cache
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form1.resources
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Properties.Resources.resources
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.exe
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.pdb
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.exe
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.pdb
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form1.resources
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form2.resources
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.exe
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.pdb
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.exe
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.pdb
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form1.resources
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form2.resources
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Properties.Resources.resources
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csprojResolveAssemblyReference.cache
+F:\Мои_документы\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csproj.GenerateResource.Cache
+D:\студент\Численные методы\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form2.resources
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.exe
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.pdb
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.exe
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\bin\Debug\Sistema_NoLine.pdb
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csprojResolveAssemblyReference.cache
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form1.resources
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Form2.resources
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.Properties.Resources.resources
+D:\студент\Важные документы и лекции\Численные методы\Первый Семестр\Sistema_NoLine\Sistema_NoLine\obj\Debug\Sistema_NoLine.csproj.GenerateResource.Cache

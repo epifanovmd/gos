@@ -1,0 +1,23 @@
+.centr {
+    text-align: center;
+}
+
+table caption {
+    text-align: center;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+table th {
+    text-align: center;
+}
+
+#group {
+    display: none;
+    border: 2px solid transparent;
+}
+
+#group:hover {
+    padding: 3px;
+    border: 2px solid green;
+}
