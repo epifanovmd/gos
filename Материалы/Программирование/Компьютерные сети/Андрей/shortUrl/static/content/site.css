@@ -1,0 +1,65 @@
+html {
+    font-family: sans-serif;
+    color: #78FF00;
+    background: url("/static/images/background.jpg");
+    background-size: cover;
+}
+.head{
+	text-align: center;
+}
+.message {
+    padding: 10px;
+    background: rgba(46, 31, 25, 0.5);
+    border-radius: 10px;
+}
+.inputUrl {
+    font-size: 12pt;
+    color: #78FF00;
+    overflow: hidden;
+    background: none;
+    resize: none;
+    width: 100%;
+    min-width: 200px;
+    border: 1px solid #398439;
+    padding: 10px 0px 10px 10px;
+    margin-top: 5px;
+    vertical-align: middle;
+    border-radius: 4px;
+    outline: none;
+    transition: all 0.5s;
+}
+.btn {
+    height: 40px;
+    margin-top: 5px;
+    width: 100px;
+    color: #398439;
+    background: none;
+    padding: 7px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid #398439;
+    border-radius: 4px;
+    outline: none;
+}
+.blocks {
+    border-spacing: 5px;
+    display: table;
+    width: 100%;
+}
+.blockUrl {
+    padding: 0px 10px 0px 0px;
+    vertical-align: top;
+    display: table-cell;
+}
+.blockBtn {
+    width: 100px;
+    vertical-align: top;
+    display: table-cell;
+}
+.err {
+    border: 1px solid red;
+    background: rgba(255, 0, 0, 0.1);
+}

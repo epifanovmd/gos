@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Вход пользователя</title>
+    <link rel="stylesheet" href="/static/content/forms.css">
+    <link rel="stylesheet" href="/static/content/font-awesome.min.css">
+    <link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <div class="container">
+        <p class="error">Ошибка</p>
+        <div id="forms">
+            <form action="/login" method="post">
+                <p><span class="fa fa-user fa-2x"></span>
+                    <input id="username" type="text" placeholder="Логин">
+                </p>
+                <p><span class="fa fa-lock fa-2x"></span>
+                    <input id="password" type="password" placeholder="Пароль">
+                </p>
+                <p>
+                    <input type="button" onclick="login()" value="ВОЙТИ">
+                </p>
+            </form>
+            <p>Нет аккаунта? &nbsp;&nbsp;<a href="/registration">Регистрация </a><span class="fa fa-arrow-right"></span>
+            </p>
+        </div>
+    </div>
+    <script src="/static/scripts/jquery-2.2.1.js"></script>
+    <script src="/static/scripts/login.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,156 @@
+html {
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    background-color: #2c3338;
+    color: #00D8FD;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+body {
+    margin: 0px;
+    padding:0.1px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    background-color: rgba(234, 76, 136, 0.5);
+}
+::-webkit-scrollbar-thumb:hover {
+    border-radius: 3px;
+    background-color: rgba(234, 76, 136, 1);
+}
+::-webkit-scrollbar-track {
+    border-width: 0;
+}
+::-webkit-scrollbar-track:hover {
+    background: rgba(191, 184, 184, 0.1);
+    border-radius: 3px;
+}
+.head {
+    background-color: #3B4148;
+    text-align: right;
+    padding: 5px 30px 5px 30px;
+    margin: 5px;
+    border: none;
+    border-radius: 3px;
+    min-width: 382px;
+}
+.viewMessages {
+    word-break: break-all;
+    min-width: 442px;
+    min-height: 200px;
+    margin: 5px;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    vertical-align: top;
+    overflow: auto;
+    background-color: #3B4148;
+}
+.message {
+    margin: 15px;
+    padding: 10px;
+    background: rgba(54, 59, 65, 1);
+    border-radius: 3px;
+}
+.message>div {
+    display: table;
+}
+.message>div>div {
+    display: table-cell;
+    color: #00FDC5;
+}
+.message>div>strong {
+    display: table-cell;
+}
+.inputMsg {
+    font-size: 12pt;
+    color: #00FDC5;
+    overflow: hidden;
+    resize: none;
+    height: 60px;
+    width: 100%;
+    min-width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: middle;
+    border: none;
+    border-radius: 3px 0px 0px 3px;
+    outline: none;
+    transition: all 0.5s;
+    background-color: #3B4148;
+    box-sizing: border-box;
+}
+.btn {
+    color: white;
+    float: right;
+    height: 60px;
+    width: 100px;
+    border: none;
+    border-radius: 0px 3px 3px 0px;
+    background-color: #ea4c88;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #d44179;
+}
+.blocks {
+    display: table;
+    border-spacing: 5px;
+    width: 100%;
+}
+.blocks > div {
+    display: table-cell;
+    vertical-align: top;
+    width: 100%;
+}
+.err {
+    background: rgba(255, 0, 0, 0.1);
+}
+.newMsg {
+    left: -300px;
+    opacity: 1;
+    padding: 5px;
+    width: 140px;
+    cursor: pointer;
+    font-family: cursive;
+    color: white;
+    position: fixed;
+    background: rgba(255, 0, 0, 0.2);
+    text-align: center;
+    border-radius: 3px;
+    transition: all 0.5s;
+}
+#logout {
+    margin-left: 20px;
+    cursor: pointer;
+    border: 0;
+    background-color: transparent;
+}
+.setBtn {
+    color: white;
+    margin-left: 20px;
+    cursor: pointer;
+    border: 0;
+    background-color: transparent;
+}
+
+.main {
+    margin: 15px;
+}

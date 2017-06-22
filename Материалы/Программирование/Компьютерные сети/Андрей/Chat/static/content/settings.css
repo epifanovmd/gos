@@ -1,0 +1,107 @@
+.setBox {
+    color: #2c3338;
+    opacity: 0;
+    display: none;
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    transition: all 0.5s ease-in-out;
+}
+.settings {
+    text-align: center;
+    position: absolute;
+    top: -600px;
+    left: 10%;
+    right: 10%;
+    bottom: 10%;
+    min-width: 500px;
+    min-height: 100px;
+    max-height: 500px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    transition: all 0.5s ease-in-out;
+}
+.close {
+    color: #2c3338;
+    cursor: pointer;
+    margin: 10px 10px;
+    float: right;
+}
+.viewSet {
+    padding: 10px;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    overflow: auto;
+    width: 100%;
+    height: calc(100% - 65px);
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 3px;
+    background-color: gainsboro;
+}
+.viewSet > #forms {
+    margin: 0px auto;
+    width: 280px;
+}
+input {
+    float: left;
+    border: none;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    padding: 0;
+}
+.viewSet span {
+    float: left;
+    vertical-align: middle;
+    background-color: #363b41;
+    border-radius: 3px 0px 0px 3px;
+    color: #606468;
+    line-height: 40px;
+    height: 40px;
+    text-align: center;
+    width: 40px;
+}
+.viewSet input {
+    height: 40px;
+    outline: none;
+}
+.viewSet input[type="text"],
+input[type="password"] {
+    background-color: #3b4148;
+    border-radius: 0px 3px 3px 0px;
+    color: #606468;
+    margin-bottom: 1em;
+    padding: 0 16px;
+    width: 200px;
+}
+.viewSet input:focus {
+    color: #fff;
+}
+.viewSet input[type="button"] {
+    border-radius: 3px;
+    background-color: #ea4c88;
+    color: #eee;
+    font-weight: bold;
+    margin-bottom: 2em;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 272px;
+}
+.viewSet input[type="button"]:hover {
+    background-color: #d44179;
+}
+.help {
+    background-color: rgba(255, 0, 0, 0.1);
+    border: 1px solid rgba(255, 0, 0, 0.3);
+    color: red;
+    border-radius: 3px;
+    margin: 10px;
+    text-align: center;
+    opacity: 0;
+    transition: all 0.5s;
+}

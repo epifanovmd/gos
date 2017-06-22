@@ -1,0 +1,89 @@
+p,
+fieldset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+body {
+    background-color: #2c3338;
+    color: #606468;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+a {
+    color: #eee;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+input {
+    border: none;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    padding: 0;
+}
+#forms {
+    margin: 0px auto;
+    width: 280px;
+}
+#forms form span {
+    background-color: #363b41;
+    border-radius: 3px 0px 0px 3px;
+    color: #606468;
+    display: block;
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    width: 50px;
+}
+#forms form input {
+    height: 50px;
+    outline: none;
+}
+#forms form input[type="text"],
+input[type="password"] {
+    background-color: #3b4148;
+    border-radius: 0px 3px 3px 0px;
+    color: #606468;
+    margin-bottom: 1em;
+    padding: 0 16px;
+    width: 198px;
+}
+#forms form input:focus {
+    color: #fff;
+}
+#forms form input[type="button"] {
+    border-radius: 3px;
+    background-color: #ea4c88;
+    color: #eee;
+    font-weight: bold;
+    margin-bottom: 2em;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 280px;
+}
+#forms form input[type="button"]:hover {
+    background-color: #d44179;
+}
+.error {
+    background-color: rgba(255, 0, 0, 0.1);
+    border: 1px solid rgba(255, 0, 0, 0.3);
+    border-radius: 3px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    opacity: 0;
+    transition: all 0.5s;
+}
+.container {
+    margin: 150px auto;
+}
+
+

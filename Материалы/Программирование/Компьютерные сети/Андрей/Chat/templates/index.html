@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Чат</title>
+    <link rel="stylesheet" href="/static/content/chat.css">
+    <link rel="stylesheet" href="/static/content/settings.css">
+    <link rel="stylesheet" href="/static/content/font-awesome.min.css">
+    <link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <div class="setBox">
+        <div class="settings">
+            <p class="fa fa-times close"></p>
+            <h1><i class="fa fa-cog "></i><b>&nbsp;Настройки</b></h1>
+            <div class="viewSet">
+                <p class="help">Help</p>
+                <div id="forms">
+                    <p><span class="fa fa-lock fa-2x"></span>
+                        <input id="oldPsw" type="password" placeholder="Старый пароль">
+                    </p>
+                    <p><span class="fa fa-lock fa-2x"></span>
+                        <input id="newPsw" type="password" placeholder="Новый пароль">
+                    </p>
+                    <p><span class="fa fa-lock fa-2x"></span>
+                        <input id="confirm" type="password" placeholder="Подтверждение">
+                    </p>
+                    <p>
+                        <input type="button" onclick="changePsw()" value="Изменить пароль">
+                    </p>
+                </div>
+
+
+                <div id="forms">
+                    <p><span class="fa fa-user fa-2x"></span>
+                        <input id="newName" type="text" placeholder="Имя">
+                    </p>
+                    <p>
+                        <input type="button" onclick="changeName()" value="Изменить имя">
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="main">
+        <div class="head">
+            <span id="name"></span>
+            <span class="fa fa-cog setBtn"></span>
+            <a class="fa fa-sign-out" id="logout" type="button" onclick="logout()">Выход</a>
+        </div>
+        <div class="viewMessages" id="messages">
+            <div class="fa fa-envelope newMsg new1MsgHide">
+                Новое сообщение</div>
+        </div>
+        <div class="blocks">
+            <div>
+                <textarea rows="2" cols="1" class="inputMsg" type="text" id="msg" placeholder='Сообщение...'></textarea>
+            </div>
+            <div>
+                <input class="btn" type="button" value="Отправить" onclick="send_message()">
+            </div>
+        </div>
+    </div>
+    <script src="/static/scripts/jquery-2.2.1.js"></script>
+    <script src="/static/scripts/chat.js"></script>
+    <script src="/static/scripts/settings.js"></script>
+</body>
+
+</html>
